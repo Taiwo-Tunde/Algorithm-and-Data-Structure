@@ -1,4 +1,6 @@
 
+
+// this function find the middle letter of any given string
 function middleLetter(str) {
 
   
